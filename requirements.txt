@@ -4,4 +4,6 @@ requests
 pillow
 packaging
 markdown
+
 pygame
+setuptools
